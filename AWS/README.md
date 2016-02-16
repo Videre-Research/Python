@@ -11,9 +11,8 @@ These are a few examples on how to use some of the AWS services with Python
   
     The file `my_aws.py` is a simple way to share your AWS credentials between all of the different scripts.
 
-    my_aws.AWS_ACCESS_KEY_ID = "Your AWS Access Key ID"
-    
-    my_aws.AWS_SECRET_ACCESS_KEY = "Your AWS Secret Access Key"
+        my_aws.AWS_ACCESS_KEY_ID = "Your AWS Access Key ID"
+        my_aws.AWS_SECRET_ACCESS_KEY = "Your AWS Secret Access Key"
 
 
 ## Working with AWS S3 buckets
