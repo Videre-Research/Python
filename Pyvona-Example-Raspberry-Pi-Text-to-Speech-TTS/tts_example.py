@@ -4,7 +4,7 @@
 '''
 https://github.com/VidereResearch/Python
 
-Randomly speaks a sentence using TTS depending on argiments passed to the script
+Randomly speaks a sentence using TTS depending on arguments passed to the script
 
 
 Usage:  tts_example.py home
