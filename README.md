@@ -12,5 +12,5 @@ You may also find additional information on tools and code samples at:
 http://technotes.videreresearch.com/
 
 
-©2015 Vidēre Research, LLC. All Rights Reserved.
+©2016 Vidēre Research, LLC. All Rights Reserved.
 http://www.videreresearch.com
